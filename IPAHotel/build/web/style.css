@@ -1,0 +1,76 @@
+body {
+    color: white;
+    font-family: papyrus, sans-serif;
+}
+div {
+    background-color: orange;
+    width: 75%;
+    margin: auto;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-color: white;
+  border-radius: 25px;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+p {
+  background-color: #f44336;
+  color: white; 
+  border-color: white;
+  border-radius: 25px;  
+}
+
+table {
+  margin: 50px;
+  color: white;
+  background-color: #f44336;
+  border-color: white;
+  border-radius: 10px;  
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #f44336;
+    border-color: white;
+    border-radius: 25px;  
+}
+
+h2 {
+    text-align: center;
+    width: 50%;
+    color: white;
+    background-color: #f44336;
+    border-color: white;
+    border-radius: 25px;  
+}
+
+input[type=text] {
+  border: 5px white;
+  border-radius: 25px;
+}
+
+input[type=password] {
+  border: 5px white;
+  border-radius: 25px;
+}
+
+input[type=submit], input[type=button], input[type=reset] {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-color: white;
+  border-radius: 25px;
+}
